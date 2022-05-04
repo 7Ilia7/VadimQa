@@ -1,6 +1,7 @@
 1)iphone 11
-2)iphone 12
-<<<<<<< HEAD
-3)Xioami p20
-4)samsung 
+2)iphone 12 
+3)samsung
+4)huaweii
+5)Oppo
+
 >>>>>>> apple_pay
